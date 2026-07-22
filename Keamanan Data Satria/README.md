@@ -48,5 +48,5 @@ Video demo (7-10 menit) yang menunjukkan hasil deployment dan fitur keamanan dap
 
 ## Cara Menjalankan Proyek Secara Lokal
 1. Clone repositori ini ke komputer Anda.
-2. Buka file `login.html` di browser web kesayangan Anda.
+2. Buka file `login.html` di browser web.
 
